@@ -6,7 +6,7 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 ## Links
 
-- [Solution URL](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-PhDhI-Frf)
+- [Solution URL](https://github.com/paladinescamila/Order-Summary-Component)
 - [Live Site URL](https://osc-frontend-mentor.netlify.app/)
 
 ## Built with
