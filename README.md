@@ -1,6 +1,6 @@
 <h1 align="center"> Frontend Mentor - Order Summary Component </h1>
 
-This is a solution to the [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Order summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ![](https://raw.githubusercontent.com/paladinescamila/Order-Summary-Component/main/img/screenshoot.png)
 
